@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\bin\Debug\Month Days Identifier.exe.config
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\bin\Debug\Month Days Identifier.exe
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\bin\Debug\Month Days Identifier.pdb
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\obj\Debug\Month Days Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\obj\Debug\Month Days Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\obj\Debug\Month Days Identifier.exe
+C:\Users\DELL\source\repos\Month Days Identifier\Month Days Identifier\obj\Debug\Month Days Identifier.pdb
